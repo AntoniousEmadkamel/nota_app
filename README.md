@@ -205,20 +205,23 @@ lib/
 ## Screenshots
 
 <p align="center">
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/splash-light.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/home-light.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/task-done.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/task-delete-light.png" width="120"/>
-<img src=" https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/add-new-task-light.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/settings-light.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/edit-task-light.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/splash-dark.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/home-dark.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/task-done-dark.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/task-delete-dark.png" width="120"/>
-<img src=" https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/add-new-task-dark.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/settings-dark.png" width="120"/>
-<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/main/screeshoots/edit-task-dark.png" width="120"/>
+    
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/splash-light.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/home-light.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/task-done-light.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/task-delete-light.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/add-new-task-light.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/settings-light.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/edit-task-light.png" width="120"/>
+<br>
+<br>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/splash-dark.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/home-dark.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/task-done-dark.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/task-delete-dark.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/add-new-task-dark.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/settings-dark.png" width="120"/>
+<img src="https://github.com/AntoniousEmadkamel/nota_app/blob/master/screenshoots/edit-task-dark.png" width="120"/>
 </p>
 
 ---
